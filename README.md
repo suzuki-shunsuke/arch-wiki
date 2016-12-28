@@ -1,1 +1,3 @@
-# arch-way
+# arch-wiki
+
+Arch Linux に関するWiki
